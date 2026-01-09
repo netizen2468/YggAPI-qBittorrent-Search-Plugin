@@ -10,7 +10,7 @@ class yggapi(object):
     name = "YggAPI"
     url = "https://yggapi.eu"
     ygg_url = "https://www.yggtorrent.top"
-    passkey = "YOUR_PASSKEY_HERE" # https://www.yggtorrent.top/user/account
+    passkey = "W5fyHhT83Z72l41UDaKcJa9BQT5K5Wyq" # https://www.yggtorrent.top/user/account
 
     supported_categories = {
         "all": "",
